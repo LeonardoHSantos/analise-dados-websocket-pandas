@@ -1,0 +1,7 @@
+__pycache__
+.env
+*.csv
+test.py
+datalogs.json
+x_gerar_grafico.py
+x_gerar_json.py
